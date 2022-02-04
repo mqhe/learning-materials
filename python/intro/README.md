@@ -4,8 +4,8 @@ You can watch this video to use Jupyter: [Install Anaconda and Jupyter on Window
 
 
 ## Introduction to Python
-+ PDF notes for this chapter: [Notes](https://github.com/mqhe/learning-materials/blob/main/python/intro/01-python_intro.pdf)
-+ Online vidio: [Video](https://personalpages.manchester.ac.uk/staff/stefan.guettel/py/01-video.php)
++ PDF notes: [Notes](https://github.com/mqhe/learning-materials/blob/main/python/intro/01-python_intro.pdf)
++ Online video: [Video](https://personalpages.manchester.ac.uk/staff/stefan.guettel/py/01-video.php)
 
 ## Exercise
 Download and run the [guessing game](https://github.com/mqhe/learning-materials/blob/main/python/intro/01-guessing-game.py)
