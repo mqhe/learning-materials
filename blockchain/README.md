@@ -15,4 +15,4 @@
 + Digital signatures
   - [Cryptography Digital signatures](https://www.tutorialspoint.com/cryptography/cryptography_digital_signatures.htm)
   - [What are Digital Signatures and How Do They Work](https://www.youtube.com/watch?v=JR4_RBb8A9Q)
-  - [Expert Level explaination](https://academy.horizen.io/technology/expert/digital-signatures/)
+  - [Digital signatures (Expert)](https://academy.horizen.io/technology/expert/digital-signatures/)
