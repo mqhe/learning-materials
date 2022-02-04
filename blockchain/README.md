@@ -5,4 +5,11 @@
 
 ## Cryptography in Blockchain  
 + [The elements of a Blockhain](https://academy.horizen.io/technology/advanced/the-elements-of-a-blockchain/)  
-+ [Cryptographic hashing function](https://academy.horizen.io/technology/advanced/public-key-cryptography/)  
++ Cryptographic Hashing Function
+  - [Hash functions](https://academy.horizen.io/technology/advanced/hash-functions/)
+  - [What is Hashing on the Blockchain](https://www.youtube.com/watch?v=IGSB9zoSx70)
++ Public Key Cryptography
+  - <https://academy.horizen.io/technology/advanced/public-key-cryptography/>
+  - <https://www.youtube.com/watch?v=GSIDS_lvRv4>
++ Digital signatures
++ 
