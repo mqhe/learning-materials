@@ -13,6 +13,7 @@
   - <https://academy.horizen.io/technology/advanced/public-key-cryptography/>
   - <https://www.youtube.com/watch?v=GSIDS_lvRv4>
 + Digital signatures
+  - [What Is a Digital Signature?](https://academy.binance.com/en/articles/what-is-a-digital-signature)
   - [Cryptography Digital signatures](https://www.tutorialspoint.com/cryptography/cryptography_digital_signatures.htm)
   - [What are Digital Signatures and How Do They Work](https://www.youtube.com/watch?v=JR4_RBb8A9Q)
   - [Digital signatures (Expert)](https://academy.horizen.io/technology/expert/digital-signatures/)
