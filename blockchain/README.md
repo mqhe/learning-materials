@@ -1,1 +1,3 @@
-
+## What is Blockchain
++ [Blockchain Explained](https://www.investopedia.com/terms/b/blockchain.asp)
++ [Blockchain In 7 Minutes](https://www.youtube.com/watch?v=yubzJw0uiE4)
