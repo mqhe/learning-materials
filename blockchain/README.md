@@ -3,8 +3,9 @@
 + A Youtube video: [Blockchain In 7 Minutes](https://www.youtube.com/watch?v=yubzJw0uiE4)  
 + How Blockchain technology can be applied to different scenarios: [Blockchain Use Cases](https://academy.binance.com/en/articles/blockchain-use-cases)  
 
-## Cryptography in Blockchain  
-+ [The elements of a Blockhain](https://academy.horizen.io/technology/advanced/the-elements-of-a-blockchain/)  
+## Cryptography in Blockchain
++ [What Makes a Blockchain Secure?](https://academy.binance.com/en/articles/what-makes-a-blockchain-secure)
++ [The elements of a Blockhain](https://academy.horizen.io/technology/advanced/the-elements-of-a-blockchain/)
 + Cryptographic Hashing Function
   - [Hash functions](https://academy.horizen.io/technology/advanced/hash-functions/)
   - [What is Hashing on the Blockchain](https://www.youtube.com/watch?v=IGSB9zoSx70)
@@ -12,4 +13,6 @@
   - <https://academy.horizen.io/technology/advanced/public-key-cryptography/>
   - <https://www.youtube.com/watch?v=GSIDS_lvRv4>
 + Digital signatures
-+ 
+  - [Cryptography Digital signatures](https://www.tutorialspoint.com/cryptography/cryptography_digital_signatures.htm)
+  - [What are Digital Signatures and How Do They Work](https://www.youtube.com/watch?v=JR4_RBb8A9Q)
+  - [Expert Level explaination](https://academy.horizen.io/technology/expert/digital-signatures/)
