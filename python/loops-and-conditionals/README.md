@@ -4,5 +4,5 @@
 
 ## Exercise
 + [Exercise-a](https://personalpages.manchester.ac.uk/staff/stefan.guettel/py/02b-exercises.html)
-+ [Exercise-b](https://personalpages.manchester.ac.uk/staff/stefan.guettel/py/02c-loops_conditionals.html)
+<!-- + [Exercise-b](https://personalpages.manchester.ac.uk/staff/stefan.guettel/py/02c-loops_conditionals.html)-->
 
