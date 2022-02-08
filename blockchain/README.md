@@ -10,8 +10,9 @@
   - [Hash functions](https://academy.horizen.io/technology/advanced/hash-functions/)
   - [What is Hashing on the Blockchain](https://www.youtube.com/watch?v=IGSB9zoSx70)
 + Public Key Cryptography
-  - <https://academy.horizen.io/technology/advanced/public-key-cryptography/>
   - <https://www.youtube.com/watch?v=GSIDS_lvRv4>
+  - Advanced explanation of PKC: <https://academy.horizen.io/technology/advanced/public-key-cryptography/>
+ 
 + Digital signatures
   - [What Is a Digital Signature?](https://academy.binance.com/en/articles/what-is-a-digital-signature)
   - [Cryptography Digital signatures](https://www.tutorialspoint.com/cryptography/cryptography_digital_signatures.htm)
