@@ -5,7 +5,7 @@
 
 ## Cryptography in Blockchain
 + [What Makes a Blockchain Secure?](https://academy.binance.com/en/articles/what-makes-a-blockchain-secure)
-+ [The elements of a Blockhain](https://academy.horizen.io/technology/advanced/the-elements-of-a-blockchain/)
++ [The elements of a Blockchain](https://academy.horizen.io/technology/advanced/the-elements-of-a-blockchain/)
 + Cryptographic Hashing Function
   - [Hash functions](https://academy.horizen.io/technology/advanced/hash-functions/)
   - [What is Hashing on the Blockchain](https://www.youtube.com/watch?v=IGSB9zoSx70)
