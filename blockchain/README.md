@@ -23,5 +23,5 @@
 + [Advanced reading](https://academy.horizen.io/technology/expert/blockchain-as-a-data-structure/)
 
 # Blockchain Wallet
-[Types of Wallet](https://academy.horizen.io/technology/advanced/types-of-wallets/)
-[How Blockchain wallet works](https://www.investopedia.com/terms/b/blockchain-wallet.asp)
++ [Types of Wallet](https://academy.horizen.io/technology/advanced/types-of-wallets/)
++ [How Blockchain wallet works](https://www.investopedia.com/terms/b/blockchain-wallet.asp)
