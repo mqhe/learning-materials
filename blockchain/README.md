@@ -22,6 +22,6 @@
 + [Brief introduction](https://medium.com/@juliomacr/blockchain-as-a-data-structure-3bd125d8ddda)
 + [Advanced reading](https://academy.horizen.io/technology/expert/blockchain-as-a-data-structure/)
 
-# Blockchain Wallet
+## Blockchain Wallet
 + [Types of Wallet](https://academy.horizen.io/technology/advanced/types-of-wallets/)
 + [How Blockchain wallet works](https://www.investopedia.com/terms/b/blockchain-wallet.asp)
