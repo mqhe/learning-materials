@@ -4,3 +4,4 @@
 
 ## Exercise
 + [Exercise](https://personalpages.manchester.ac.uk/staff/stefan.guettel/py/03b-exercises.html)
++ [Solutions](https://github.com/mqhe/learning-materials/tree/main/python/functions/03-exercises-solution)
