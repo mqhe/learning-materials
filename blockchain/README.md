@@ -22,11 +22,11 @@
 + [Brief introduction](https://medium.com/@juliomacr/blockchain-as-a-data-structure-3bd125d8ddda)
 + [Advanced reading](https://academy.horizen.io/technology/expert/blockchain-as-a-data-structure/)
 
-## Blockchain Wallet
+## Wallet
 + [Types of Wallet](https://academy.horizen.io/technology/advanced/types-of-wallets/)
 + [How Blockchain wallet works](https://www.investopedia.com/terms/b/blockchain-wallet.asp)
 
-## Blockchain Transaction
+## Transaction
 + [Intro to Transactions](https://academy.horizen.io/technology/beginner/intro-to-transactions/)
 + [Transaction per second](https://academy.binance.com/en/glossary/transactions-per-second-tps)
 + [Transaction ID](https://academy.binance.com/en/glossary/transaction-id)
