@@ -1,5 +1,5 @@
 ## Lists
-+ [PDF Notes](https://github.com/mqhe/learning-materials/blob/main/python/lists/04-functions.pdf)
++ [PDF Notes](https://github.com/mqhe/learning-materials/blob/main/python/lists/04-lists.pdf)
 + [Online Video](https://personalpages.manchester.ac.uk/staff/stefan.guettel/py/04-video.php)
 
 ## Exercise
