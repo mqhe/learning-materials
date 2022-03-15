@@ -34,7 +34,12 @@
 
 ## Bitcoin
 + [How the Bitcoin protocol actually works](https://michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/)
-+ [But how does bitcoin actually work? (ligher video than previous articles)](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
++ [But how does bitcoin actually work? (ligher video than previous article)](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
 + [Bitcoin paper](https://www.debr.io/article/21260.pdf)
 + [Difference Between Blockchain and Bitcoin](https://academy.binance.com/en/articles/difference-between-blockchain-and-bitcoin)
++ [How to Mine Bitcoin](https://academy.binance.com/en/articles/how-to-mine-bitcoin)
 
+## Consensus in Bitcoin
++ [What Is Proof of Work (PoW)?](https://academy.binance.com/en/articles/proof-of-work-explained)
++ [What Is a Blockchain Consensus Algorithm?](https://academy.binance.com/en/articles/what-is-a-blockchain-consensus-algorithm)
++ [Double Spending Explained](https://academy.binance.com/en/articles/double-spending-explained)
