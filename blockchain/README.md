@@ -31,3 +31,10 @@
 + [Transaction per second](https://academy.binance.com/en/glossary/transactions-per-second-tps)
 + [Transaction ID](https://academy.binance.com/en/glossary/transaction-id)
 + [UTXO vs. Account Model](https://academy.horizen.io/technology/expert/utxo-vs-account-model/)
+
+## Bitcoin
++ [How the Bitcoin protocol actually works](https://michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/)
++ [But how does bitcoin actually work? (ligher video than previous articles)](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
++ [Bitcoin paper](https://www.debr.io/article/21260.pdf)
++ [Difference Between Blockchain and Bitcoin](https://academy.binance.com/en/articles/difference-between-blockchain-and-bitcoin)
+
