@@ -43,3 +43,8 @@
 + [What Is Proof of Work (PoW)?](https://academy.binance.com/en/articles/proof-of-work-explained)
 + [What Is a Blockchain Consensus Algorithm?](https://academy.binance.com/en/articles/what-is-a-blockchain-consensus-algorithm)
 + [Double Spending Explained](https://academy.binance.com/en/articles/double-spending-explained)
+
+## Ethereum
++ [What Is Ethereum?](https://academy.binance.com/en/articles/what-is-ethereum)
++ [How does Ethereum work, anyway?](https://preethikasireddy.medium.com/how-does-ethereum-work-anyway-22d1df506369)
++ [Ethereum Yellow Paper](https://github.com/ethereum/yellowpaper)
