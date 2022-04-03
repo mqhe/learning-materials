@@ -48,3 +48,9 @@
 + [What Is Ethereum?](https://academy.binance.com/en/articles/what-is-ethereum)
 + [How does Ethereum work, anyway?](https://preethikasireddy.medium.com/how-does-ethereum-work-anyway-22d1df506369)
 + [Ethereum Yellow Paper](https://github.com/ethereum/yellowpaper)
++ [Ethereum Gas Explained](https://ethgas.io)
++ [What Is Ethereum 2.0 And Why Does It Matter?]
+
+## Consensus in Ethereum
++ [Proof of Stake Explained](https://academy.binance.com/en/articles/proof-of-stake-explained)
++ [Proof of Authority Explained](https://academy.binance.com/en/articles/proof-of-authority-explained)
