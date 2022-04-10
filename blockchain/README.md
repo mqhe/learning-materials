@@ -54,3 +54,8 @@
 ## Consensus in Ethereum
 + [Proof of Stake Explained](https://academy.binance.com/en/articles/proof-of-stake-explained)
 + [Proof of Authority Explained](https://academy.binance.com/en/articles/proof-of-authority-explained)
+
+## Smart contract
++ [What Are Smart Contracts?](https://academy.binance.com/en/articles/what-are-smart-contracts)
++ [Introduction to smart contracts](https://ethereum.org/en/smart-contracts/#predictability)
++ [INTRODUCTION TO SMART CONTRACTS (for developers)](https://ethereum.org/en/developers/docs/smart-contracts/)
