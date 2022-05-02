@@ -66,6 +66,6 @@
 + [Hyperledger Fabric Use Cases And Case Studies](https://101blockchains.com/hyperledger-fabric-use-cases/)
 
 ## Zero-knowledge proof
-+[Zero Knowledge Proof: Explain it Like I’m 5 (Halloween Edition)](https://hackernoon.com/eli5-zero-knowledge-proof-78a276db9eff)
-+[Zero Knowledge Proof: A Introductory Guide](https://101blockchains.com/zero-knowledge-proof/)
-+[zk-SNARKs and zk-STARKs Explained](https://academy.binance.com/en/articles/zk-snarks-and-zk-starks-explained)
++ [Zero Knowledge Proof: Explain it Like I’m 5 (Halloween Edition)](https://hackernoon.com/eli5-zero-knowledge-proof-78a276db9eff)
++ [Zero Knowledge Proof: A Introductory Guide](https://101blockchains.com/zero-knowledge-proof/)
++ [zk-SNARKs and zk-STARKs Explained](https://academy.binance.com/en/articles/zk-snarks-and-zk-starks-explained)
